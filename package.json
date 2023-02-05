@@ -1,0 +1,17 @@
+{
+  "name": "lucien-base-pack",
+  "displayName": "lucien-base-pack",
+  "description": "A pack with some extentions to use for every type of project.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "VSpaceCode.vspacecode",
+    "sainnhe.gruvbox-material",
+    "Gruntfuggly.todo-tree"
+  ]
+}
