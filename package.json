@@ -13,5 +13,10 @@
     "VSpaceCode.vspacecode",
     "sainnhe.gruvbox-material",
     "Gruntfuggly.todo-tree"
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/lucien-van-duijnhoven/lucien-base-pack",
+    "type": "extensionPack",
+    "directory": "lucien-van-duijnhoven/lucien-base-pack"
+  }
 }
