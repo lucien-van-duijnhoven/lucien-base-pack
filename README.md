@@ -1,3 +1,3 @@
 # lucien-base-pack
 
-A group of packages that I use in all sorts of projecs.
+A group of vscode extentions I use.
